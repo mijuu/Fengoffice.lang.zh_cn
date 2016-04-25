@@ -487,6 +487,7 @@
 	'conversation x mails' => '对话（{0}封邮件）',
 	'show quoted text' => '显示引用文本',
 	'new weblink' => '新建链接',
+	'add weblink' => '添加链接',
 	'checked out by' => '签出者',
 	'hphone title' => '电话',
 	'wphone title' => '电话',
